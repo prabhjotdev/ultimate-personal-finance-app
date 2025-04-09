@@ -1,0 +1,14 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password123",
+      "accountType": "personal",
+      "settings": {
+        "theme": "light",
+        "notifications": true
+      }
+    }
+  ]
+  
