@@ -9,6 +9,17 @@
         "theme": "light",
         "notifications": true
       }
+    },
+    {
+      "id": "2",
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "password123",
+      "accountType": "personal",
+      "settings": {
+        "theme": "light",
+        "notifications": true
+      }
     }
   ]
   
